@@ -2,18 +2,6 @@
 
 A full-stack web application for managing and purchasing books online, built with PHP, MySQL, and Bootstrap.
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [User Roles](#user-roles)
-- [Database](#database)
-- [File Descriptions](#file-descriptions)
-- [Technologies Used](#technologies-used)
-
 ## ✨ Features
 
 ### Core Functionality
